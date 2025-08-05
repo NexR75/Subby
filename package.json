@@ -1,0 +1,27 @@
+{
+  "name": "Subby",
+  "version": "1.0.0",
+  "description": "A full-featured Discord YouTube subscription verifier bot",
+  "main": "bot.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node bot.js",
+    "cleanup": "node cleanup.js"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "youtube",
+    "verification",
+    "discord.js"
+  ],
+  "author": "NexR",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.21.0",
+    "dotenv": "^17.2.1",
+    "mongoose": "^8.17.0",
+    "tesseract.js": "^6.0.1",
+    "canvas": "^3.1.2"
+  }
+}
