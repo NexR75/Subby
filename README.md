@@ -1,8 +1,8 @@
-# Subby
+# ❤️ Subby
 
 Subby is a full-featured Discord bot for verifying YouTube subscriptions via screenshot, built with [discord.js v14+](https://discord.js.org/), [mongoose](https://mongoosejs.com/), and [tesseract.js](https://tesseract.projectnaptha.com/).
 
-## Features
+## ✨ Features
 
 - **YouTube Subscription Verification:** Users upload a screenshot of their YouTube subscription; Subby uses OCR to verify.
 - **Automatic Role Assignment:** Verified users receive a configurable role.
@@ -18,7 +18,7 @@ Subby is a full-featured Discord bot for verifying YouTube subscriptions via scr
 - **Owner-only commands supported via OWNER_ID in `.env`.**
 - **Bot activity set to "Streaming, NexR <3".**
 
-## Setup
+## 🚀 Setup
 
 1. **Clone the repository:**
    ```sh
@@ -48,13 +48,13 @@ Subby is a full-featured Discord bot for verifying YouTube subscriptions via scr
    npm start
    ```
 
-## Usage
+## 📜 Usage
 
 - Users upload their YouTube subscription screenshot in the configured channel.
 - Subby checks the screenshot and assigns the subscriber role if verified.
 - Admin/owner commands are available for moderation and management.
 
-## Commands
+## 🤖 Commands
 
 | Command           | Description                                              | Permission         |
 |-------------------|---------------------------------------------------------|--------------------|
