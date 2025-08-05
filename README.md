@@ -22,7 +22,7 @@ Subby is a full-featured Discord bot for verifying YouTube subscriptions via scr
 
 1. **Clone the repository:**
    ```sh
-   git clone <your-repo-url>
+   git clone https://github.com/NexR75/Subby.git
    cd Subby
    ```
 
